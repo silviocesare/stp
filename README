@@ -1,0 +1,11 @@
+Trivial patches to use stp (the SMT solver) in MinGW code.
+
+Installing is a little tricky.. Build the original source first, then install, then
+copy the patched files (include/) to the installation directory.
+
+I have provided a precompiled mingw library.
+
+--
+Silvio Cesare
+silvio.cesare _a_t_ gmail _d_o_t_ com
+Deakin University
